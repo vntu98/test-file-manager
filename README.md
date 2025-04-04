@@ -13,4 +13,4 @@ npm run serve
 npm run build
 
 Ảnh chụp màn hình
-![alt text](image.png)
+![alt text](image-1.png)
