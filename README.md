@@ -1,24 +1,16 @@
-# file-manager
+Cài đặt dự án
+Copy# Clone dự án
+git clone https://github.com/yourusername/file-manager.git
+cd file-manager
 
-## Project setup
-```
+# Cài đặt dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# Chạy môi trường phát triển
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+# Build cho production
 npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Ảnh chụp màn hình
+![alt text](image.png)
